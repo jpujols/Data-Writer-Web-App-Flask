@@ -1,4 +1,3 @@
-#Please create a web app that let's users submit a username and password
 #The app checks if the username exists and the password satisfies the requirements
 from flask import Flask, render_template_string, request
 
